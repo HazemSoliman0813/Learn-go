@@ -10,4 +10,7 @@ func variables() {
 	var b, c int = 5, 5
 	println(b, c)
 
+	var e int
+	fmt.Println(e)
+
 }
