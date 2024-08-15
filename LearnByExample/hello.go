@@ -6,4 +6,6 @@ func main() {
 	fmt.Println("hello world")
 
 	variables()
+	Value()
+	constant()
 }
